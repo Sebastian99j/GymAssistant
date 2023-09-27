@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731030081563",
+    "project_id": "gymassistant-6e018",
+    "storage_bucket": "gymassistant-6e018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731030081563:android:8689d3779064a42ce1e8be",
+        "android_client_info": {
+          "package_name": "com.gymassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0FZzpJTwS6gLWgR-aF-wfHX3p9T9vWDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
